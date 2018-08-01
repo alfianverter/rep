@@ -1,0 +1,13 @@
+{
+  "name": "tarkovreputationbot",
+  "version": "1.0.0",
+  "description": "Discord Rep Bot",
+  "main": "bot.js",
+  "author": "Jacob / Geekmarine72",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.3.0",
+    "fs": "0.0.1-security",
+    "winston": "^2.4.0"
+  }
+}
